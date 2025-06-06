@@ -9,7 +9,7 @@ const {
     isValidEmail, 
     formatDate, 
     debounce 
-} = require('@nkedia/shared-utils');
+} = require('@natasha9012/shared-utils');
 
 console.log('🚀 Consumer App Started - Using Shared Library!\n');
 

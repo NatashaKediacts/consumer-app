@@ -11,6 +11,6 @@
   "author": "NKedia",
   "license": "MIT",
   "dependencies": {
-    "@nkedia/shared-utils": "file:../sharedlibrary/nkedia-shared-utils-1.0.0.tgz"
+    "@natasha9012/shared-utils": "^1.0.0"
   }
 }

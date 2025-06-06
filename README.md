@@ -1,6 +1,6 @@
 # Consumer App
 
-This application demonstrates how to use the `@nkedia/shared-utils` library in a practical scenario.
+This application demonstrates how to use the `@natasha9012/shared-utils` library in a practical scenario.
 
 ## Features
 
@@ -33,7 +33,7 @@ npm start
 
 ## Dependencies
 
-- `@nkedia/shared-utils`: Our custom shared utility library
+- `@natasha9012/shared-utils`: Our custom shared utility library
 
 ## Sample Output
 
