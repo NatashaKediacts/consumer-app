@@ -1,0 +1,16 @@
+{
+  "name": "consumer-app",
+  "version": "1.0.0",
+  "description": "Consumer application that demonstrates usage of the shared utility library",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["demo", "consumer", "shared-library"],
+  "author": "NKedia",
+  "license": "MIT",
+  "dependencies": {
+    "@nkedia/shared-utils": "file:../sharedlibrary/nkedia-shared-utils-1.0.0.tgz"
+  }
+}
