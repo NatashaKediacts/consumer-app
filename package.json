@@ -7,7 +7,11 @@
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["demo", "consumer", "shared-library"],
+  "keywords": [
+    "demo",
+    "consumer",
+    "shared-library"
+  ],
   "author": "NKedia",
   "license": "MIT",
   "dependencies": {

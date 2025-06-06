@@ -9,7 +9,7 @@ const {
     isValidEmail, 
     formatDate, 
     debounce 
-} = require('@natasha9012/shared-utils');
+} = require('@natashakediacts/shared-utils');
 
 console.log('🚀 Consumer App Started - Using Shared Library!\n');
 

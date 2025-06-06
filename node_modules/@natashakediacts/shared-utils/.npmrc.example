@@ -1,0 +1,13 @@
+# GitHub Packages Registry Configuration
+@natashakediacts:registry=https://npm.pkg.github.com
+//npm.pkg.github.com/:_authToken=YOUR_GITHUB_TOKEN_HERE
+
+# Instructions:
+# 1. Go to https://github.com/settings/tokens
+# 2. Create a new Personal Access Token with these scopes:
+#    - read:packages
+#    - write:packages  
+#    - delete:packages
+#    - repo
+# 3. Copy the token and replace YOUR_GITHUB_TOKEN_HERE above
+# 4. Rename this file to .npmrc (remove .example)
