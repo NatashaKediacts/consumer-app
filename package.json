@@ -15,6 +15,6 @@
   "author": "NKedia",
   "license": "MIT",
   "dependencies": {
-    "@natashakediacts/shared-utils": "^1.0.1"
+    "@natashakediacts/shared-utils": "^1.1.0"
   }
 }
